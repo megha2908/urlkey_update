@@ -7,15 +7,15 @@ I've used updateProduct  method and defined updateProduct() method with update p
 
 Your request will look like below,
 
-_{
-	"products": [
-	 	 {
-      "name":"Test",
-      "sku":"test"  
-		 },
-		 {
-      "name":"Test2",
-      "sku":"test2"
-		 }
-	]
-}_
+{
+  "products": [
+	 {
+	      "name":"Test",
+	      "sku":"test"  
+	 },
+	 {
+	      "name":"Test2",
+	      "sku":"test2"
+	 }
+    ]
+}
